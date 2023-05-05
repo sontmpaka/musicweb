@@ -1,0 +1,74 @@
+{
+  "theSong": [
+    {
+      "id": "0",
+      "name": "Thôi miên",
+      "singer": "CARA",
+      "path": "./assets/mp3/ThoiMien-CARA-6237610.mp3",
+      "img": "./assets/img/thoimien.jpg"
+    },
+    {
+      "id": "1",
+      "name": "Haru Haru",
+      "singer": "BIGBANG",
+      "path": "./assets/mp3/HaruHaru-BIGBANG-6291516.mp3",
+      "img": "./assets/img/haruharu.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bên trên tầng lầu",
+      "singer": "Tăng Duy Tân",
+      "path": "./assets/mp3/BenTrenTangLau-TangDuyTan-7412012.mp3",
+      "img": "./assets/img/bentrentanglau.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Hết nhạc con về",
+      "singer": "RZ Mas, DJ DuyB, Not Afraid",
+      "path": "./assets/mp3/HetNhacConVe-DuyBNotAfraidRZMas-7006927.mp3",
+      "img": "./assets/img/hetnhacconve.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Lạc",
+      "singer": "Rhymastic",
+      "path": "./assets/mp3/Lac-Rhymastic-2729471.mp3",
+      "img": "./assets/img/lac.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Lạc trôi",
+      "singer": "Sơn Tùng MTP",
+      "path": "./assets/mp3/LacTroiTripleDRemix-SonTungMTP-5164670.mp3",
+      "img": "./assets/img/lactroi.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Một vòng trái đất",
+      "singer": "Tim if Minh Hằng",
+      "path": "./assets/mp3/MotVongTraiDat-TimMinhHang-137875.mp3",
+      "img": "./assets/img/motvongtraidat.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Ngủ một mình",
+      "singer": "HIEUTHUHAI",
+      "path": "./assets/mp3/NguMotMinhtinhRatTinh-HIEUTHUHAINegavKewtiie-8397765.mp3",
+      "img": "./assets/img/ngumotminh.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Rồi ta sẽ ngắm pháo hoa cùng nhau",
+      "singer": "O.lew",
+      "path": "./assets/mp3/RoiTaSeNgamPhaoHoaCungNhau-OlewVietNam-8485329.mp3",
+      "img": "./assets/img/roitasengamphaohoacungnhau.jpg"
+    },
+    {
+      "name": "Waiting for you",
+      "singer": "MONO",
+      "path": "./assets/mp3/WaitingForYou-MONOOnionn-7733882.mp3",
+      "img": "./assets/img/waitingforyou.jpg",
+      "id": "9"
+    }
+  ]
+}
